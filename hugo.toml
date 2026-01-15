@@ -1,0 +1,5 @@
+baseURL = 'https://hirokin0919.github.io/'
+languageCode = 'ja'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+hasCJKLanguage = true
