@@ -1,0 +1,9 @@
+baseURL: "https://hirokin0919.github.io/"
+languageCode: "ja"
+title: "Hiroki Takeda"
+theme: "PaperMod"
+hasCJKLanguage: true
+
+params:
+  defaultTheme: "dark"
+  disableThemeToggle: true
