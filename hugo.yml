@@ -1,9 +1,21 @@
 baseURL: "https://hirokin0919.github.io/"
 languageCode: "ja"
-title: "Hiroki Takeda"
+title: "Hiroki's website"
 theme: "PaperMod"
 hasCJKLanguage: true
 
 params:
   defaultTheme: "dark"
   disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "Hiroki Takeda"
+    subtitle: |
+      Master's Students (M1)  
+      Dept. of Pure and Applied Mathematics  
+      Graduate School of Information Science and Technology, Osaka University
+    imageUrl: "https://github.com/hirokin0919.png"
+    imageTitle: "myProfile"
+    buttons:
+      - name: "GitHub"
+        url: "https://github.com/hirokin0919"
