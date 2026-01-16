@@ -1,5 +1,4 @@
 +++
-draft = true
 title = 'Publications'
 summary = 'Research interests in Numerical Linear Algebra and Tensor Decompositions.'
 +++

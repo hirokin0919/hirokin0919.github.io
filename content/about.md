@@ -1,5 +1,4 @@
 +++
-draft = true
 title = 'About'
 summary = 'My background, education timeline, and personal interests (Track & Field).'
 +++

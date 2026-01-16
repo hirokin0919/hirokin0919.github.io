@@ -1,5 +1,4 @@
 +++
-draft = true
 title = 'CV'
 summary = 'Education, academic awards, teaching experience, and technical skills.'
 +++
