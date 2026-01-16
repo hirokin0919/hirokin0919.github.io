@@ -14,8 +14,22 @@ params:
       Master's Students (M1)  
       Dept. of Pure and Applied Mathematics  
       Graduate School of Information Science and Technology, Osaka University
-    imageUrl: "https://github.com/hirokin0919.png"
+    imageUrl: "/images/profile.jpg"
     imageTitle: "myProfile"
-    buttons:
-      - name: "GitHub"
-        url: "https://github.com/hirokin0919"
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:u303995c@ecs.osaka-u.ac.jp"
+    - name: "github"
+      url: "https://github.com/hirokin0919"
+menu:
+  main:
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+    - identifier: "cv"
+      name: "CV"
+      url: "/cv/"
+    - identifier: "publications"
+      name: "Publications"
+      url: "/publications/"
