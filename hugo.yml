@@ -33,3 +33,7 @@ menu:
     - identifier: "publications"
       name: "Publications"
       url: "/publications/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

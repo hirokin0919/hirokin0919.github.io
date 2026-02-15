@@ -28,5 +28,19 @@
       <guid>http://localhost:1313/publications/</guid>
       <description>Research interests in Numerical Linear Algebra and Tensor Decompositions.</description>
     </item>
+    <item>
+      <title>決済ページのイメージ</title>
+      <link>http://localhost:1313/outftest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/outftest/</guid>
+      <description>&lt;h2 id=&#34;個別の決済ページ&#34;&gt;個別の決済ページ&lt;/h2&gt;
+&lt;p&gt;OB会費5000円を1回限りの納入，数量を変更することで口数を変えられるようにしている．
+もちろん1個に固定することも可能．&lt;br&gt;
+&lt;a href=&#34;https://buy.stripe.com/test_5kQ14mdFP0n3dP22Cid7q00&#34;&gt;OB会費(テスト)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OB会費5000円をサブスク納入．
+こちらも口数は変更可能に設定している．
+もちろん1個に固定することも可能．&lt;br&gt;
+&lt;a href=&#34;https://buy.stripe.com/test_3cI6oG59jc5LbGUccSd7q01&#34;&gt;OB会費継続購入&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
