@@ -21,3 +21,6 @@ OB会費5000円をサブスク納入．
 {{< stripe_once >}}
 {{< stripe_subscription >}}
 {{< stripe_donation >}}
+
+# 決済ページのカスタマイズ確認用
+{{< stripe_minimum >}}
