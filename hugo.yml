@@ -1,38 +1,74 @@
 baseURL: "https://hirokin0919.github.io/"
-languageCode: "ja"
 title: "Hiroki's website"
 theme: "PaperMod"
 hasCJKLanguage: true
+defaultContentLanguage: "ja"
 
 params:
-  defaultTheme: "dark"
-  disableThemeToggle: true
-  profileMode:
-    enabled: true
-    title: "Hiroki Takeda"
-    subtitle: |
-      Master's Students (M1)  
-      Dept. of Pure and Applied Mathematics  
-      Graduate School of Information Science and Technology, Osaka University
-    imageUrl: "/images/profile.jpg"
-    imageTitle: "myProfile"
+  defaultTheme: "auto"
+  disableThemeToggle: false
+  showLanguageSelector: true
 
-  socialIcons:
+languages:
+  ja:
+    languageCode: "ja"
+    languageName: "日本語"
+    weight: 2
+    contentDir: "content/ja"
+    params:
+      profileMode:
+        enabled: true
+        title: "武田 博樹"
+        subtitle: |
+          大阪大学大学院情報科学研究科  
+          情報基礎数学専攻
+          博士前期課程1年 (M1) 
+        imageUrl: "/images/profile.jpg"
+        imageTitle: "myProfile"
+    menu:
+      main:
+        - identifier: "about"
+          name: "about"
+          url: "/about/"
+        - identifier: "cv"
+          name: "cv"
+          url: "/cv/"
+        - identifier: "publications"
+          name: "publications"
+          url: "/publications/"
+  en:
+    languageCode: "en"
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+    params:
+      profileMode:
+        enabled: true
+        title: "Hiroki Takeda"
+        subtitle: |
+          Master's Students (M1)  
+          Dept. of Pure and Applied Mathematics  
+          Graduate School of Information Science and Technology, Osaka University
+        imageUrl: "/images/profile.jpg"
+        imageTitle: "myProfile"
+    menu:
+      main:
+        - identifier: "about"
+          name: "About"
+          url: "/about/"
+        - identifier: "cv"
+          name: "CV"
+          url: "/cv/"
+        - identifier: "publications"
+          name: "Publications"
+          url: "/publications/"
+
+socialIcons:
     - name: "email"
       url: "mailto:u303995c@ecs.osaka-u.ac.jp"
     - name: "github"
       url: "https://github.com/hirokin0919"
-menu:
-  main:
-    - identifier: "about"
-      name: "About"
-      url: "/about/"
-    - identifier: "cv"
-      name: "CV"
-      url: "/cv/"
-    - identifier: "publications"
-      name: "Publications"
-      url: "/publications/"
+
 markup:
   goldmark:
     renderer:

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hiroki&#39;s website</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Hiroki&#39;s website</description>
     <generator>Hugo</generator>
-    <language>ja</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>背景情報や趣味について</description>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>My background, education timeline, and personal interests (Track &amp;amp; Field).</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>http://localhost:1313/en/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>学歴，受賞歴，教育経験，およびスキルについて</description>
+      <guid>http://localhost:1313/en/cv/</guid>
+      <description>Education, academic awards, teaching experience, and technical skills.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://localhost:1313/en/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
-      <description>研究業績及び数値線形代数およびテンソル分解における興味</description>
+      <guid>http://localhost:1313/en/publications/</guid>
+      <description>Research interests in Numerical Linear Algebra and Tensor Decompositions.</description>
     </item>
     <item>
       <title>決済ページのイメージ</title>
-      <link>http://localhost:1313/outftest/</link>
+      <link>http://localhost:1313/en/outftest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outftest/</guid>
+      <guid>http://localhost:1313/en/outftest/</guid>
       <description>&lt;h2 id=&#34;個別の決済ページ&#34;&gt;個別の決済ページ&lt;/h2&gt;
 &lt;p&gt;OB会費5000円を1回限りの納入，数量を変更することで口数を変えられるようにしている．
 もちろん1個に固定することも可能．&lt;br&gt;
