@@ -10,6 +10,13 @@ Please stay tuned for future updates.
 
 ---
 
+## Presentations (Conferences and Talks)
+
+### Domestic Conferences
+* **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Streaming Tensor Train Decomposition Algorithm Based on Incremental Orthogonalization Updates", *The 22nd Union Meeting of JSIAM Research Groups*, The University of Tokyo, Mar. 2026.
+
+---
+
 ## Research Interests
 
 My research interests lie in **Numerical Linear Algebra**, with a particular focus on the theoretical and algorithmic aspects of **Tensor Decompositions**.
