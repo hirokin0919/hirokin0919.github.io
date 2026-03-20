@@ -26,6 +26,11 @@ languages:
           博士前期課程1年 (M1) 
         imageUrl: "/images/profile.jpg"
         imageTitle: "myProfile"
+      socialIcons:
+        - name: "email"
+          url: "mailto:u303995c@ecs.osaka-u.ac.jp"
+        - name: "github"
+          url: "https://github.com/hirokin0919"
     menu:
       main:
         - identifier: "about"
@@ -52,6 +57,11 @@ languages:
           Graduate School of Information Science and Technology, Osaka University
         imageUrl: "/images/profile.jpg"
         imageTitle: "myProfile"
+      socialIcons:
+        - name: "email"
+          url: "mailto:u303995c@ecs.osaka-u.ac.jp"
+        - name: "github"
+          url: "https://github.com/hirokin0919"
     menu:
       main:
         - identifier: "about"
@@ -63,12 +73,6 @@ languages:
         - identifier: "publications"
           name: "Publications"
           url: "/publications/"
-
-socialIcons:
-    - name: "email"
-      url: "mailto:u303995c@ecs.osaka-u.ac.jp"
-    - name: "github"
-      url: "https://github.com/hirokin0919"
 
 markup:
   goldmark:
