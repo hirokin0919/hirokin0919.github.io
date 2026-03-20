@@ -3,6 +3,7 @@ title: "Hiroki's website"
 theme: "PaperMod"
 hasCJKLanguage: true
 defaultContentLanguage: "ja"
+enableRobotsTXT: true
 
 params:
   defaultTheme: "auto"
