@@ -9,6 +9,11 @@ params:
   defaultTheme: "auto"
   disableThemeToggle: false
   showLanguageSelector: true
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
 languages:
   ja:
@@ -23,7 +28,7 @@ languages:
         subtitle: |
           大阪大学大学院情報科学研究科  
           情報基礎数学専攻
-          博士前期課程1年 (M1) 
+          博士前期課程2年 (M2) 
         imageUrl: "/images/profile.jpg"
         imageTitle: "myProfile"
       socialIcons:
@@ -34,13 +39,13 @@ languages:
     menu:
       main:
         - identifier: "about"
-          name: "about"
+          name: "About"
           url: "/about/"
         - identifier: "cv"
-          name: "cv"
+          name: "CV"
           url: "/cv/"
         - identifier: "publications"
-          name: "publications"
+          name: "Publications"
           url: "/publications/"
   en:
     languageCode: "en"
@@ -52,7 +57,7 @@ languages:
         enabled: true
         title: "Hiroki Takeda"
         subtitle: |
-          Master's Students (M1)  
+          Master's Students (M2)  
           Dept. of Pure and Applied Mathematics  
           Graduate School of Information Science and Technology, Osaka University
         imageUrl: "/images/profile.jpg"
