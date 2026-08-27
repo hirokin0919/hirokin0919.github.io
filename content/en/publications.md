@@ -1,16 +1,18 @@
 +++
 title = 'Publications'
-summary = 'Research interests in Numerical Linear Algebra and Tensor Decompositions.'
+summary = 'Preprints, conference presentations, and research interests in Numerical Linear Algebra.'
 +++
 
-## Publications
-The list of publications is currently under preparation.
+## Preprints
 
-Please stay tuned for future updates.
+* **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization", *arXiv:2606.31061*, Jun. 2026. [[arXiv](https://arxiv.org/abs/2606.31061)]
 
 ---
 
 ## Presentations (Conferences and Talks)
+
+### International Conferences (Poster)
+* **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Efficient Online Tensor Train Decomposition with Sequential Orthogonalization for High-Dimensional Streaming Data", *The 19th East Asia Section of SIAM Annual Meeting (EASIAM 2026)*, Poster Session, Jun. 2026.
 
 ### Domestic Conferences
 * **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Streaming Tensor Train Decomposition Algorithm Based on Incremental Orthogonalization Updates", *The 22nd Union Meeting of JSIAM Research Groups*, The University of Tokyo, Mar. 2026.
