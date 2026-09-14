@@ -11,7 +11,8 @@ summary = 'Preprints, conference presentations, and research interests in Numeri
 
 ## Presentations (Conferences and Talks)
 
-### International Conferences (Poster)
+### International Conferences
+* **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Online Tensor Train Decomposition with Sequential Orthogonalization for In-Situ Compression of PDE Solutions", *VII International Conference on Mathematics and its Applications in Science and Engineering (ICMASE 2026)*, Oral Presentation, Nagoya University, Japan, Sep. 2026.
 * **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Efficient Online Tensor Train Decomposition with Sequential Orthogonalization for High-Dimensional Streaming Data", *The 19th East Asia Section of SIAM Annual Meeting (EASIAM 2026)*, Poster Session, Jun. 2026.
 
 ### Domestic Conferences
