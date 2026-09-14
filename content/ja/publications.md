@@ -11,7 +11,8 @@ summary = '研究業績及び数値線形代数およびテンソル分解にお
 
 ## 学会発表 (Presentations)
 
-### 国際会議（ポスター発表）
+### 国際会議
+* **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Online Tensor Train Decomposition with Sequential Orthogonalization for In-Situ Compression of PDE Solutions", *VII International Conference on Mathematics and its Applications in Science and Engineering (ICMASE 2026)*, Oral Presentation, Nagoya University, Japan, Sep. 2026.
 * **Hiroki Takeda**, Yuto Miyatake, and Daisuke Furihata, "Efficient Online Tensor Train Decomposition with Sequential Orthogonalization for High-Dimensional Streaming Data", *The 19th East Asia Section of SIAM Annual Meeting (EASIAM 2026)*, Poster Session, Jun. 2026.
 
 ### 国内学会・研究会
