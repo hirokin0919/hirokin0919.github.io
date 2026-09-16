@@ -5,7 +5,7 @@ summary = 'Education, academic awards, teaching experience, and technical skills
 
 ## Education
 **Osaka University**, Osaka, Japan  
-Master's Student (M1), Graduate School of Information Science and Technology  
+Master's Student (M2), Graduate School of Information Science and Technology  
 Apr 2025–Present
 * **Major:** Pure and Applied Mathematics (情報基礎数学専攻)
 * **Research Theme:** Numerical Linear Algebra, Tensor Decomposition
